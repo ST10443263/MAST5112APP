@@ -1,5 +1,11 @@
 export type BiteIntoBliss = {
-    loginpage: undefined,
-    menupage: undefined,
-    food: undefined,
-}
+   
+            Homepage: undefined,
+            menupage: undefined,
+                 loginpage: undefined,
+                 Addpage: undefined,
+                 Foodpage: undefined,
+                 Reservation: undefined,
+                 Payment: undefined,
+
+            }
